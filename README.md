@@ -2,7 +2,7 @@
 
 ## Quem Sou Eu 🤔
         
-Olá! Eu sou João Otávio Freires da Silva, um entusiasta de tecnologia. Com 4 anos de experiência em Análise e Desenvolvimento de Sistemas, estou sempre buscando aprender e crescer.
+Olá! Eu sou João Otávio Freires da Silva, um entusiasta de tecnologia. Com 5 anos de experiência em Análise e Desenvolvimento de Sistemas, estou sempre buscando aprender e crescer.
 
 
 ## 🚀 O Que Eu Faço
