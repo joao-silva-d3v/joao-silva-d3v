@@ -7,7 +7,7 @@ Olá! Eu sou João Otávio Freires da Silva, um entusiasta de tecnologia. Com 5 
 
 ## 🚀 O Que Eu Faço
 
-  - Criação de Banco de Dados.
+  - Criação de Banco de Dados SQL.
   - Suporte de TI - Hardware e Software.
   - Análise de Sistemas.
   - Interação Humano Computador.
