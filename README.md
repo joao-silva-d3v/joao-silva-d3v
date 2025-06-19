@@ -14,6 +14,7 @@ Olá! Eu sou João Otávio Freires da Silva, um entusiasta de tecnologia. Com 5 
   - Engenharia de Software.
   - Gestão Ágil de Projetos.
   - Desenvolvimento Web e Mobile.
+  - Computação em Nuvem.
 
 
 
