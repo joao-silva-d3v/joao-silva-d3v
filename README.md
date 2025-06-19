@@ -51,6 +51,3 @@ Olá! Eu sou João Otávio Freires da Silva, um entusiasta de tecnologia. Com 5 
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 - jofs2006@gmail.com
-  
-![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
-- https://steamcommunity.com/id/_c1pher/
